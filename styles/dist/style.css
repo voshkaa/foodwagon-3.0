@@ -442,6 +442,7 @@
     width: 100%;
     margin-right: 0;
     box-sizing: border-box;
+    max-width: none;
   }
   .title__button {
     width: 100%;
